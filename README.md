@@ -1,4 +1,5 @@
 ##Part 1
+
 (Webstorm)
   1) Apply and register an account from the link: https://www.jetbrains.com/community/education/#students.
   2) Login to the new account and activate.
