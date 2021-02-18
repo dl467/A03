@@ -15,11 +15,11 @@
   3) Click on the + sign to add and connect Github account. 
  
  (Part 2) Glossary
-  - Branch : is a line of working space commits are recorded.
-  - Clone : copys the existing repository into another directory.
-  - Commit : is used to save and record work in a repository.
-  - Fetch : retrieves any type of data from the remote repository and downloads it into the local repository. 
-  - GIT : is a version control software that lets you manage and track source code history.
+  - Branch - is a line of working space commits are recorded.
+  - Clone - copys the existing repository into another directory.
+  - Commit - is used to save and record work in a repository.
+  - Fetch - retrieves any type of data from the remote repository and downloads it into the local repository. 
+  - GIT - is a version control software that lets you manage and track source code history.
   - Github : is a code hosting platform that track changes made in files. Allows easy access and easy collaboration.
   - Merge : merge contents from two different branches into the current branch.
   - Merge Conflict : when competing changes are made to same line of a file or when one person edits a file and another person deletes the same file. 
