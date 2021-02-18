@@ -1,4 +1,5 @@
-#(Webstorm)
+##Part 1
+(Webstorm)
   1) Apply and register an account from the link: https://www.jetbrains.com/community/education/#students.
   2) Login to the new account and activate.
   3) Go to the link: https://www.jetbrains.com/webstorm/download/#section=mac and download the mac version of webstorm.
