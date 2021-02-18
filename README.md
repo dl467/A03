@@ -1,5 +1,3 @@
-##Part 1
-
 (Webstorm)
   1) Apply and register an account from the link: https://www.jetbrains.com/community/education/#students.
   2) Login to the new account and activate.
@@ -13,4 +11,8 @@
 
 (Connecting git to Webstorm)
   1) Go to system preferences and select on the Version Control section.
-  2) 
+  2) Go into the Github section
+  3) Click on the + sign to add and connect Github account. 
+ 
+ (Part 2)
+  -Branch: is a single line of development
